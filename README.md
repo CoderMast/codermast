@@ -20,13 +20,14 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/codermast/codermast/main/resources/git-header.svg" />
 
-- 👨🏽‍💻 我本科就读于西安财经大学(XUFE)金融学专业，目前在攻读辽宁工业大学(LNUT)计算机科学与技术专业第二学士学位;
+- ⚡️ 我未来将拥有 金融学 和 计算机 双学位;
+- 📫 我的邮箱是 codermast@163.com;
 - 🌱 我擅长Java编程语言，并写了一些项目; 
 - 👯 我喜欢打篮球、摄影、唱歌等;
 - 🤔 自我认为我是一个古怪但善于思考的人，经常想一些奇奇怪怪但富含逻辑的事情;
-- 💬 我非常喜欢和大家一起交流，你们有什么问题可以随时找我帮忙，前提是我能解决的情况下;
-- ⚡️ 我未来将拥有 金融学 和 计算机 双学位;
-- 📫 我的邮箱是 codermast@163.com;
+- 💬 我非常喜欢和大家一起交流，你们有什么问题可以随时找我帮忙;
+- 👨🏽‍💻 我本科就读于西安财经大学(XUFE)金融学专业，目前在攻读辽宁工业大学(LNUT)计算机科学与技术专业第二学士学位;
+
 
 **使用的语言和工具:** 
 
