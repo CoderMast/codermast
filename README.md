@@ -6,10 +6,14 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/Github-CoderMast-_?style=for-the-badge&logo=github&color=blue)](https://github.com/codermast)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:codermast@163.com)
-[![QQMail](https://img.shields.io/badge/-QQMail-0078D4?style=flat&logo=tencentqq&logoColor=white)](https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=codermast@qq.com)
-[![Blog](https://img.shields.io/badge/-Blog-0078D4?style=flat&logo=microdotblog&logoColor=white)](https://blog.codermast.com/)
+[![Github](https://img.shields.io/badge/Github-CoderMast-_?style=for-the-badge&logo=github&color=blue&logoColor=white)](https://github.com/codermast)
+[![Email](https://img.shields.io/badge/Email-codermast%40163.com-%2520?style=for-the-badge&logo=Gmail&logoColor=white&color=red)](mailto:codermast@163.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.codermast.com-%2520?style=for-the-badge&logo=lightning&logoColor=white&color=green)](https://blog.codermast.com/)
+[![CSDN](https://img.shields.io/badge/CSDN-CoderMast-%2520?style=for-the-badge&logo=c&logoColor=white&color=orange)](https://blog.csdn.net/qq_33685334/)
+[![WeChat](https://img.shields.io/badge/WeChat-CoderMast888-%2520?style=for-the-badge&logo=wechat&logoColor=white&color=%23228B22)](...)
+
+
+
 
 
 
