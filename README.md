@@ -1,15 +1,17 @@
 <!-- Your title -->
-## Hi, I'm CoderMast, a Developer 🚀 from China.
+
+## 你好, 我是 CoderMast 🚀
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/codermast)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
+[![Github](https://img.shields.io/badge/Github-CoderMast-_?style=for-the-badge&logo=github&color=blue)](https://github.com/codermast)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:codermast@163.com)
+[![QQMail](https://img.shields.io/badge/-QQMail-0078D4?style=flat&logo=tencentqq&logoColor=white)](https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=codermast@qq.com)
+[![Blog](https://img.shields.io/badge/-Blog-0078D4?style=flat&logo=microdotblog&logoColor=white)](https://blog.codermast.com/)
+
+
 
 &nbsp;
 
@@ -64,6 +66,5 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <p align="center">
   <img alt="HitCount" src="https://hits.dwyl.com/codermast/codermast.svg" />
   <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=codermast.codermast" />
-  <!-- https://github.com/wesky93/views this is a clone of the hits -->
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/codermast/codermast.svg" />
 </p>
