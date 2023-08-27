@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/Github-CoderMast-_?style=for-the-badge&logo=github&color=blue&logoColor=white)](https://github.com/codermast)
 [![Email](https://img.shields.io/badge/Email-codermast%40163.com-%2520?style=for-the-badge&logo=Gmail&logoColor=white&color=red)](mailto:codermast@163.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.codermast.com-%2520?style=for-the-badge&logo=lightning&logoColor=white&color=green)](https://blog.codermast.com/)
+[![Blog](https://img.shields.io/badge/Blog-blog.codermast.com-%2520?style=for-the-badge&logo=lightning&logoColor=white&color=green)](https://www.codermast.com/)
 [![CSDN](https://img.shields.io/badge/CSDN-CoderMast-%2520?style=for-the-badge&logo=c&logoColor=white&color=orange)](https://blog.csdn.net/qq_33685334/)
 [![WeChat](https://img.shields.io/badge/WeChat-CoderMast888-%2520?style=for-the-badge&logo=wechat&logoColor=white&color=%23228B22)](...)
 
