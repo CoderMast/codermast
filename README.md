@@ -1,4 +1,4 @@
-![Aakarsh Profile GIF](https://github.com/AakarshTeja/AakarshTeja/raw/master/aakarsh-profile.gif)
+![Aakarsh Profile GIF](https://github.com/codermast/codermast/raw/master/aakarsh-profile.gif)
 
 ### Hello My Dear Fellow Developers 👋
 __I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very much interested in contributing for open source. And my career interest is Cloud & Cybersecurity. Always there to help others and to clarify the doubts you have.__
@@ -35,20 +35,20 @@ __I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very 
 - 💭 My dream is to work with Elon Musk, Hope one day I'll meet him and explain my ideas.
 
 ### Connect With Me 🤝🤝
-[<img src="https://img.shields.io/badge/aakarshteja-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aakarsh-teja-issa-ab9a06148/)
-[<img src = "https://img.shields.io/badge/aakarshteja-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/aakarshteja)
-[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/aakarsh.teja)
-[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/aakarshteja/)
+[<img src="https://img.shields.io/badge/codermast-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aakarsh-teja-issa-ab9a06148/)
+[<img src = "https://img.shields.io/badge/codermast-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/codermast)
+[<img src = "https://img.shields.io/badge/codermast-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/aakarsh.teja)
+[<img src = "https://img.shields.io/badge/codermast-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/codermast/)
 
 ### Stats 📊
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakarshteja&show_icons=true" alt="aakarshteja_stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakarshteja&layout=compact" alt="aakarshteja_stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aakarshteja&" alt="aakarshteja_stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codermast&show_icons=true" alt="codermast_stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codermast&layout=compact" alt="codermast_stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=codermast&" alt="codermast_stats"/>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aakarshteja" alt="Aakarsh Teja Profile visits" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=codermast" alt="Aakarsh Teja Profile visits" /></p>
 
 ### Projects 💪
 <!--START_SECTION:data-section-->
-<table width="100%"><tr><td align="center"><a href="https://github.com/AakarshTeja/AakarshTeja">1.AakarshTeja</a> </td></tr></table>
+<table width="100%"><tr><td align="center"><a href="https://github.com/codermast/codermast">1.codermast</a> </td></tr></table>
 <!--END_SECTION:data-section-->
