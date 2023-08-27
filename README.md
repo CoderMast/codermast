@@ -1,54 +1,52 @@
-![Aakarsh Profile GIF](https://github.com/codermast/codermast/raw/master/aakarsh-profile.gif)
+## Hello GitHub Fans 👋
+[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
+[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
+[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### Hello My Dear Fellow Developers 👋
-__I am *Aakarsh Teja* a Computer Science Student from VIT University. I am very much interested in contributing for open source. And my career interest is Cloud & Cybersecurity. Always there to help others and to clarify the doubts you have.__
+### I'm Siwei Zhou
 
-### My Skills 🚀
-![Amazon Aws](https://img.shields.io/badge/amazon-aws.svg?style=for-the-badge&logo=amazon-aws&color=232F3E)
-![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
-![LARAVEL](https://img.shields.io/badge/laravel-%FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
-![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
-![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
-![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
-![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
-![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
-![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
+- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- 🌱 Currently working in Hangzhou, China.
+- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
+- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
+- ⚡ Fun fact: Data Analysis📊
 
-### Tools I Use 🔧🔨
-![Xampp](https://img.shields.io/badge/xampp-%FCC624.svg?style=for-the-badge&logo=xampp&logoColor=white&color=FB7A24)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
-![ANACONDA](https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+### 🛠 技术栈 | Tech Stack
 
-### About Me🤓
+- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
+- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
+- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-- 🔭 I’m currently working on Web Based Projects in Laravel.
-- 🌱 I’m currently learning Frontend,Cybersecurity,Blockchain.
-- 🏫  Want to learn MEAN,MERN stack.
-- 👯 I’m looking to collaborate on Laravel, security Projects and can help you with Website Deployments Configurations and Setup.
-- 📫 You can reach me at: <a href="mailto:aakarshissa@gmail.com">aakarshissa@gmail.com</a>
-- 💭 My dream is to work with Elon Musk, Hope one day I'll meet him and explain my ideas.
+### 开源项目
+- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
+- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
+- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
+- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
+- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
+- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
+- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
+- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
+- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
+- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
 
-### Connect With Me 🤝🤝
-[<img src="https://img.shields.io/badge/codermast-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aakarsh-teja-issa-ab9a06148/)
-[<img src = "https://img.shields.io/badge/codermast-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/codermast)
-[<img src = "https://img.shields.io/badge/codermast-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/aakarsh.teja)
-[<img src = "https://img.shields.io/badge/codermast-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/codermast/)
+### 关于我
+- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
+- [CSDN](https://zhousiwei.blog.csdn.net/)
+- [微博](http://weibo.com/jayinfo)
 
-### Stats 📊
-<p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codermast&show_icons=true" alt="codermast_stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codermast&layout=compact" alt="codermast_stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=codermast&" alt="codermast_stats"/>
-</p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=codermast" alt="Aakarsh Teja Profile visits" /></p>
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-### Projects 💪
-<!--START_SECTION:data-section-->
-<table width="100%"><tr><td align="center"><a href="https://github.com/codermast/codermast">1.codermast</a> </td></tr></table>
-<!--END_SECTION:data-section-->
+⭐️ From [JoeyBling](https://github.com/JoeyBling)
+
