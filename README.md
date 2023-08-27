@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/Github-CoderMast-_?style=for-the-badge&logo=github&color=blue&logoColor=white)](https://github.com/codermast)
 [![Email](https://img.shields.io/badge/Email-codermast%40163.com-%2520?style=for-the-badge&logo=Gmail&logoColor=white&color=red)](mailto:codermast@163.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.codermast.com-%2520?style=for-the-badge&logo=lightning&logoColor=white&color=green)](https://www.codermast.com/)
+[![Blog](https://img.shields.io/badge/Www-blog.codermast.com-%2520?style=for-the-badge&logo=lightning&logoColor=white&color=green)](https://www.codermast.com/)
 [![CSDN](https://img.shields.io/badge/CSDN-CoderMast-%2520?style=for-the-badge&logo=c&logoColor=white&color=orange)](https://blog.csdn.net/qq_33685334/)
 [![WeChat](https://img.shields.io/badge/WeChat-CoderMast888-%2520?style=for-the-badge&logo=wechat&logoColor=white&color=%23228B22)](https://github.com/CoderMast/codermast/blob/main/resources/wechat-codermast888.jpg?raw=true)
 [![QQ](https://img.shields.io/badge/QQ_GROUP-916750650-%2520?style=for-the-badge&logo=tencentqq&logoColor=white&color=%23228B22)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XANpYQqwfvUgN_lf--sqv7p51-Ifo5kd&authKey=av6nQ2MbcL9lS03suDdRtGjCncf51%2FIiPxHO5Rk5M6md79yPLGK80xU4%2Bla8WncT&noverify=0&group_code=916750650)
