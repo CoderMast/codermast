@@ -57,13 +57,3 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <img alt="HitCount" src="https://hits.dwyl.com/codermast/codermast.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=codermast.codermast" />
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/codermast/codermast.svg" />
-</p>
