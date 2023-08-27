@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 **一些关于我的介绍：**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/codermast/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/codermast/codermast/main/resources/git-header.svg" />
 
 - 👨🏽‍💻 我本科就读于西安财经大学(XUFE)金融学专业，目前在攻读辽宁工业大学(LNUT)计算机科学与技术专业第二学士学位;
 - 🌱 我擅长Java编程语言，并写了一些项目; 
@@ -34,7 +34,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/codermast/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=codermast&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -62,8 +62,8 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <img alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
+  <img alt="HitCount" src="https://hits.dwyl.com/codermast/codermast.svg" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=codermast.codermast" />
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/codermast/codermast.svg" />
 </p>
