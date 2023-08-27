@@ -14,12 +14,6 @@ You can use the website to generate badges: https://shields.io/
 [![QQ](https://img.shields.io/badge/QQ_GROUP-916750650-%2520?style=for-the-badge&logo=tencentqq&logoColor=white&color=%23228B22)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XANpYQqwfvUgN_lf--sqv7p51-Ifo5kd&authKey=av6nQ2MbcL9lS03suDdRtGjCncf51%2FIiPxHO5Rk5M6md79yPLGK80xU4%2Bla8WncT&noverify=0&group_code=916750650)
 
 
-
-
-
-
-&nbsp;
-
 <!-- Talking about you -->
 **一些关于我的介绍：**
 
