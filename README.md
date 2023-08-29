@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 **一些关于我的介绍：**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/codermast/codermast/main/resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/codermast/codermast/main/resources/git-header.svg" href="https://www.codermast.com/?github_index_readme" target="_blank" />
 
 - ⚡️ 我未来将拥有 金融学 和 计算机 双学位;
 - 📫 我的邮箱是 codermast@163.com;
