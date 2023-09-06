@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <a  href="https://www.codermast.com/?github_index_readme" target="_blank" ><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/codermast/codermast/main/resources/git-header.svg"/></a>
 
-- ⚡️ 我未来将拥有 金融学 和 计算机 双学位;
+- ⚡️ 我未来将拥有 金融学 和 计算机 双学士学位;
 - 📫 我的邮箱是 codermast@163.com;
 - 🌱 我擅长Java编程语言，并写了一些项目; 
 - 👯 我喜欢打篮球、摄影、唱歌等;
